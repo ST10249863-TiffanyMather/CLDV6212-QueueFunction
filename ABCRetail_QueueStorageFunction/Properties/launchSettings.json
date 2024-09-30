@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ABCRetail_QueueStorageFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7025",
+      "launchBrowser": false
+    }
+  }
+}
